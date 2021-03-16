@@ -1,0 +1,15 @@
+a{
+    margin-left: 20px;
+}
+
+.active{
+    color: black;
+}
+ h1{
+     color:rgb(222, 222, 238);
+ }
+
+ .mat-toolbar.mat-primary {
+    background: #f0cef0;
+    color: #fff;
+  }
